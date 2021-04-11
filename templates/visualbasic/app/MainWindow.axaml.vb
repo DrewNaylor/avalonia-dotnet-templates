@@ -3,7 +3,8 @@ Imports Avalonia.Controls
 Imports Avalonia.Markup.Xaml
 
 Namespace AvaloniaAppTemplate
-    Partial Public Class MainWindow Inherits Window
+    Partial Public Class MainWindow
+	Inherits Window
         Public Sub New()
             InitializeComponent()
 '-:cnd:noEmit
